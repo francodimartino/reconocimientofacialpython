@@ -41,11 +41,9 @@ Este proyecto permite el registro de imágenes para crear una base de datos, el 
 
 2. Ingresar el nombre de la persona a registrar.
 
-3. Posicionarse frente a la cámara y presionar la tecla `q` para capturar la imagen.
+3. Posicionarse frente a la cámara y esperar a que se tomen las imagenes.
 
-4. Repetir el paso anterior hasta obtener todas las imágenes deseadas para esa persona.
-
-5. Presionar la tecla `ESC` para guardar las imágenes y salir del programa.
+4. Presionar la tecla `ESC` para guardar las imágenes y salir del programa.
 
 ### Entrenamiento del modelo
 
